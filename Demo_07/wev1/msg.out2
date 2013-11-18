@@ -1,0 +1,449 @@
+Current date (heap):  Tuesday 09 April 2013
+
+(wev1:2891): Gtk-WARNING **: Attempting to add a widget with type GtkVBox to a GtkWindow, but as a GtkBin subclass a GtkWindow can only contain one widget at a time; it already contains a widget of type GtkAlignment
+
+(wev1:2891): Gtk-CRITICAL **: gtk_box_pack: assertion `gtk_widget_get_parent (child) == NULL' failed
+swipe is erased 
+Selected (simple): >> Male <<
+the age entered = ===44ip is ready 
+ip is ready 
+File has been Updated for login 
+timer wnter
+timer intris
+timer intris
+star timer 1, bp=0, bli=0, bmi=0
+entered in the timer login
+LOGIN_SUCCESS,FullName,Age,Gender 
+result is "LOGIN_SUCCESS i"
+result is "FullName i"
+result is "Age i"
+result is "Gender i"
+
+(wev1:2891): Gtk-CRITICAL **: gtk_builder_get_object: assertion `GTK_IS_BUILDER (builder)' failed
+
+(wev1:2891): Gtk-CRITICAL **: gtk_widget_hide: assertion `GTK_IS_WIDGET (widget)' failed
+
+(wev1:2891): Gtk-CRITICAL **: gtk_image_set_from_animation: assertion `GTK_IS_IMAGE (image)' failed
+
+(wev1:2891): Gtk-CRITICAL **: gtk_entry_set_text: assertion `GTK_IS_ENTRY (entry)' failed
+
+(wev1:2891): Gtk-CRITICAL **: gtk_entry_set_text: assertion `GTK_IS_ENTRY (entry)' failed
+
+(wev1:2891): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(wev1:2891): GLib-GObject-CRITICAL **: g_signal_connect_data: assertion `G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(wev1:2891): Gtk-CRITICAL **: gtk_image_set_from_animation: assertion `GTK_IS_IMAGE (image)' failed
+
+(wev1:2891): Gtk-CRITICAL **: gtk_image_set_from_animation: assertion `GTK_IS_IMAGE (image)' failed
+
+(wev1:2891): Gtk-CRITICAL **: gtk_image_set_from_animation: assertion `GTK_IS_IMAGE (image)' failed
+
+(wev1:2891): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(wev1:2891): GLib-GObject-CRITICAL **: g_signal_connect_data: assertion `G_TYPE_CHECK_INSTANCE (instance)' failed
+entering in creating creatre home windowip is ready 
+ File has been Updated 
+ The value of FALSE - 0 TRUE - 1 bool-val - 0 
+timer wnter
+timer intris
+timer intris
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+Check The Response
+get output --its a wellth check
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+Check The Response
+get output --its a wellth check
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+Check The Response
+get output --its a wellth check
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+Check The Response
+get output --its a wellth check
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+Check The Response
+get output --its a wellth check
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+Check The Response
+get output --its a wellth check
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+Check The Response
+get output --its a wellth check
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+Check The Response
+get output --its a wellth check
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+Check The Response
+get output --its a wellth check
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+Check The Response
+get output --its a wellth check
+Check the output
+ String info 49 
+System Got Data Updated 
+BP Systolic BP  is 49
+BP Diastolic BP is 55
+BP Pulse Rate  is 57
+
+119,79,95
+
+119 -- 79 -- 95
+119.000000 -- 79.000000 --95.000000
+reading message-----
+result is "--absolute_value-- i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+--absolute_value--result is "--sbp_n_dbp-- i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+--sbp_n_dbp--absolute value- set 
+result is "120 i"
+result is "AND i"
+result is "80 i"
+result is "You are Normal i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+120
+120.000000 -- 80.000000
+msg has been read
+
+(wev1:2891): Gtk-CRITICAL **: gtk_builder_get_object: assertion `GTK_IS_BUILDER (builder)' failed
+
+(wev1:2891): Gtk-CRITICAL **: gtk_builder_get_object: assertion `GTK_IS_BUILDER (builder)' failed
+
+(wev1:2891): Gtk-CRITICAL **: gtk_widget_hide: assertion `GTK_IS_WIDGET (widget)' failed
+
+(wev1:2891): Gtk-CRITICAL **: gtk_widget_hide: assertion `GTK_IS_WIDGET (widget)' failed
+
+(wev1:2891): Gtk-CRITICAL **: gtk_widget_hide: assertion `GTK_IS_WIDGET (widget)' failed
+ The value of FALSE - 0 TRUE - 1 bool-val - 1 
+ip is ready 
+ File has been Updated 
+ The value of FALSE - 0 TRUE - 1 bool-val - 0 
+timer wnter
+timer intris
+timer intris
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+Check The Response
+get output --its a wellth check
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+Check The Response
+get output --its a wellth check
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+Check The Response
+get output --its a wellth check
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+Check The Response
+get output --its a wellth check
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+Check The Response
+get output --its a wellth check
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+Check The Response
+get output --its a wellth check
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+Check The Response
+get output --its a wellth check
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+Check The Response
+get output --its a wellth check
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+Check The Response
+get output --its a wellth check
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+star timer 1, bp=1, bli=0, bmi=0
+
+Check The Response
+get output --its a wellth check
+Check the output
+ String info 49 
+System Got Data Updated 
+BP Systolic BP  is 49
+BP Diastolic BP is 55
+BP Pulse Rate  is 49
+
+113,79,101
+
+113 -- 79 -- 101
+113.000000 -- 79.000000 --101.000000
+reading message-----
+result is "--absolute_value-- i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+--absolute_value--result is "--sbp_n_dbp-- i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+--sbp_n_dbp--absolute value- set 
+result is "120 i"
+result is "AND i"
+result is "80 i"
+result is "You are Normal i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+result is "0 i"
+120
+120.000000 -- 80.000000
+msg has been read
+
+(wev1:2891): Gtk-CRITICAL **: gtk_widget_hide: assertion `GTK_IS_WIDGET (widget)' failed

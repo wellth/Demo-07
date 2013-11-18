@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface>
+  <!-- interface-requires gtk+ 3.0 -->
+  <object class="GtkWindow" id="window_mand_msg">
+    <property name="width_request">800</property>
+    <property name="height_request">600</property>
+    <property name="visible">True</property>
+    <property name="can_focus">False</property>
+    <property name="type">popup</property>
+    <property name="title" translatable="yes">window</property>
+    <property name="window_position">center-always</property>
+    <property name="hide_titlebar_when_maximized">True</property>
+    <property name="skip_taskbar_hint">True</property>
+    <signal name="destroy" handler="destroy" swapped="no"/>
+    <child>
+      <object class="GtkAlignment" id="alignment1">
+        <property name="width_request">798</property>
+        <property name="height_request">570</property>
+        <property name="visible">True</property>
+        <property name="can_focus">False</property>
+        <child>
+          <object class="GtkFixed" id="fixed1">
+            <property name="visible">True</property>
+            <property name="can_focus">False</property>
+            <child>
+              <object class="GtkImage" id="image1">
+                <property name="width_request">100</property>
+                <property name="height_request">80</property>
+                <property name="visible">True</property>
+                <property name="can_focus">False</property>
+                <property name="stock">gtk-missing-image</property>
+              </object>
+            </child>
+            <child>
+              <object class="GtkLabel" id="label1">
+                <property name="width_request">500</property>
+                <property name="height_request">120</property>
+                <property name="visible">True</property>
+                <property name="can_focus">False</property>
+                <property name="label" translatable="yes">These tests are for informational purposes only, and is not replacement for medical advice. 
+
+This content should not be used during a medical emergency or for the diagnosis or treatment of any medical condition.
+
+Please consult your doctor or other qualified health care provider for proper interpretation.
+
+You would be taken through the following tests in sequence:
+
+Ø  Weight / BMI
+
+Ø  Body fat %
+
+Ø  Blood Pressure
+
+Ø  ECG (Electrodes on Hands and Legs)
+
+Please contact SHRC staff for any assistance</property>
+              </object>
+              <packing>
+                <property name="x">120</property>
+                <property name="y">200</property>
+              </packing>
+            </child>
+            <child>
+              <object class="GtkLabel" id="label2">
+                <property name="width_request">500</property>
+                <property name="height_request">80</property>
+                <property name="visible">True</property>
+                <property name="can_focus">False</property>
+                <property name="label" translatable="yes"> </property>
+              </object>
+              <packing>
+                <property name="x">150</property>
+                <property name="y">300</property>
+              </packing>
+            </child>
+            <child>
+              <object class="GtkLabel" id="user_name">
+                <property name="width_request">100</property>
+                <property name="height_request">20</property>
+                <property name="visible">True</property>
+                <property name="can_focus">False</property>
+                <property name="label" translatable="yes">Hi &lt;Name&gt;</property>
+                <attributes>
+                  <attribute name="font-desc" value="Rekha Medium 9"/>
+                </attributes>
+              </object>
+              <packing>
+                <property name="x">500</property>
+                <property name="y">21</property>
+              </packing>
+            </child>
+          </object>
+        </child>
+      </object>
+    </child>
+  </object>
+</interface>
